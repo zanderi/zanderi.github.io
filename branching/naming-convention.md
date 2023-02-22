@@ -7,7 +7,6 @@ parent: Branching Strategy
 
 # Naming Conventions
 
-
 ## Creating Branches
 
 Feature branches follow:
